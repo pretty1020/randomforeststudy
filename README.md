@@ -6,3 +6,4 @@ The impact in accuracy of each variable is also included in the view.
 Random forest create multiple decision trees and combined together to get a more accurate and stable prediction
 It is a popular machine learning algorithm.
 
+visit the app here : https://ds1projapailden.shinyapps.io/hiringpredictor/
